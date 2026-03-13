@@ -22,5 +22,4 @@ foreach ($matrix as $row) {
 }
 $result = sumSecondaryDiagonal($matrix);
 echo "Сумма элементов побочной диагонали: $result\n";
-echo "(Ожидаемый результат: 15)\n\n";
 ?>
